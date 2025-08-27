@@ -9,8 +9,8 @@ This project aims to create an online platform that showcases handmade and artis
 
 ## 🌐 Project URLs
 
-- **Live Demo:** [https://your-live-demo-url.com](https://your-live-demo-url.com)  
-- **Presentation/Documentation:** [https://your-docs-or-presentation-url.com](https://your-docs-or-presentation-url.com)
+- **Project Info:** [https://drive.google.com/file](https://drive.google.com/file/d/1-A0Se4R05jXmSK6CMiRXBd72r3aN2-xE/view?usp=drive_link)  
+- **Project Contriputers:** [https://drive.google.com/file](https://drive.google.com/file/d/1-4htH4wINRvFLjTtugWOsyyHzKzZdTSc/view?usp=drive_link)
 
 ## 👥 Contributors & Roles
 
