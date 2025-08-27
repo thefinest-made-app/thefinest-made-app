@@ -1,16 +1,26 @@
-## Hi there 👋
+# Handmade Products Platform
 
-<!--
-**thefinest-made-app/thefinest-made-app** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to the portfolio repository for our project:  
+**"A platform for showcasing handmade crafts and supporting small business owners."**
 
-Here are some ideas to get you started:
+## 📝 Project Description
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+This project aims to create an online platform that showcases handmade and artisanal products. The goal is to empower local artisans and small business owners by providing them with a digital space to display their work, connect with customers, and grow their businesses. The platform focuses on promoting craftsmanship, encouraging entrepreneurship, and supporting community-based economic development.
+
+## 🌐 Project URLs
+
+- **Live Demo:** [https://your-live-demo-url.com](https://your-live-demo-url.com)  
+- **Presentation/Documentation:** [https://your-docs-or-presentation-url.com](https://your-docs-or-presentation-url.com)
+
+## 👥 Contributors & Roles
+
+This project was developed using the **Design Thinking** methodology. Each team member led a different phase of the process:
+
+- **Esraa Shaban** — *Define*  
+- **Hala Mohamed** — *Empathise*  
+- **Mahmoud Shams** — *Design*  
+- **Youstina** — *Ideate*
+
+---
+
+Thank you for checking out our project! We hope it contributes to supporting and growing small handmade businesses.
